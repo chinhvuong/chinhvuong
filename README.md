@@ -1,10 +1,12 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> bro</h1>
 
-<p> My name is Chinh Vuong and I'm a fullstack javascript developer, from <img src="https://cdn-icons-png.flaticon.com/512/206/206632.png" width="17" /> <b>Vietnam</b>. </p>
+<p> My name is <b>Chinh Vuong</b> and I'm a <b>fullstack</b> javascript developer, from <img src="https://cdn-icons-png.flaticon.com/512/206/206632.png" width="17" /> <b>Vietnam</b>. </p>
 
 ## About me
 
-- ✨ Creating bugs since 2019
+- ✨ I have been learning programming since September 2019.
+- ✨ I started working from January 2022, for a blockchain company.
+- 📚 Currently, I am involved in <b>frontend</b> and <b>backend</b> development of Dapp projects (lending, marketplace, * to earn, ...), on <b>Ethereum</b>, <b>Binance Smart Chain</b>, <b>Solana</b> platforms.
 <!-- - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳 -->
 <!-- - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀 -->
 <!-- - 🎲 And ... i play 🎸 guitar and ♟ chess online -->
@@ -32,11 +34,11 @@
 <a href="https://www.djangoproject.com" target="_blank">
   <img align="left" title="Django" alt="Django" width="40px" src="./assets/django-seeklogo.com.svg" />
 </a>
-<a href="https://docs.ethers.io" target="_blank">
-  <img align="left" title="Ether" alt="Ether" width="40px" src="./assets/ether.svg" />
-</a>
+<!-- <a href="https://docs.ethers.io" target="_blank">
+  <img align="left" title="Ether Js" alt="Ether Js" width="40px" src="./assets/ether.svg" />
+</a> -->
 <a href="https://web3js.readthedocs.io" target="_blank">
-  <img align="left" title="Web3js" alt="Web3js" width="40px" src="./assets/web3js.png" />
+  <img align="left" title="Web3 Js" alt="Web3 Js" width="40px" src="./assets/web3js.png" />
 </a>
 <a href="https://solana-labs.github.io/solana-web3.js" target="_blank">
   <img align="left" title="solana web3js" alt="solana web3js" width="40px" src="./assets/solana-sol-logo.svg" />
