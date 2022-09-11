@@ -36,8 +36,8 @@
   <img align="left" title="Ether" alt="Ether" width="40px" src="./assets/ether.svg" />
 </a>
 <a href="https://web3js.readthedocs.io" target="_blank">
-  <img align="left" title="Web3js" alt="Web3js" width="40px" src="./assets/web3-dot-js.svg" />
+  <img align="left" title="Web3js" alt="Web3js" width="40px" src="./assets/web3js.png" />
 </a>
 <a href="https://solana-labs.github.io/solana-web3.js" target="_blank">
-  <img align="left" title="solana web3js" alt="solana web3js" width="40px" src="./assets/solana-sol-logo.svg.svg" />
+  <img align="left" title="solana web3js" alt="solana web3js" width="40px" src="./assets/solana-sol-logo.svg" />
 </a>
