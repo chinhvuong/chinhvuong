@@ -57,9 +57,3 @@ My name is **Chinh Vuong** and I'm a **Full Stack Blockchain Developer**, from <
 - 💼 **LinkedIn**: [chinhvuong-dev](https://www.linkedin.com/in/chinhvuong-dev)
 - 🌐 **Portfolio**: [Chinh Vuong's Portfolio](https://portfolio-chinhvuongs-projects.vercel.app/)
 - 📝 **Blog**: [Chinh Vuong on Viblo](https://viblo.asia/u/chinhvuong)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinhvuong&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
