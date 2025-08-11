@@ -4,8 +4,8 @@ My name is **Chinh Vuong** and I'm a **Full Stack Blockchain Developer**, from <
 
 ## About me
 
-- ✨ I have been learning programming since September 2019
-- ✨ I started working from January 2022, specializing in blockchain development
+- ✨ I have been learning programming since September 201
+- ✨ I started working from January 20, specializing in blockchain development
 - 🚀 Currently working as a **Full Stack Developer** with nearly 4 years of experience
 - 📚 Experienced in building **DApp projects** (lending, marketplace, trading platforms, social platforms, *to earn apps) across multiple blockchain networks
 - 🔗 **Extensive experience** with **EVM networks** and **Solana**, plus exposure to **Cosmos**
